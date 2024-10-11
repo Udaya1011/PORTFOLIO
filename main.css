@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@media screen and (max-width: 600px) {
+
+}
+
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    list-style: none;
+    scroll-behavior: smooth;
+    text-decoration: none;
+}
+body {
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color:black;
+    padding: 20px;
+    font-family: 'Inter', sans-serif; 
+    scroll-behavior: smooth;
+    
+}
+span{
+    color: skyblue;
+    font-size: 100%;
+}
+.container {
+    width: 95%;
+    margin: 0 auto;
+    padding: 40px;
+    
+}
+section {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+}
+section h2 {
+    margin-bottom: 15px;
+    color: skyblue;
+    text-align: center;
+}
+
+nav {
+    padding: 10px 0;
+    text-align: center;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    max-width: 100%;
+    justify-content: center;
+}
+ul li {
+    margin:0 20px;
+}
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    text-decoration: none;
+}
+
+
+/*=============== HOME ===============*/
+
+#home{
+    font-family: 'Poppins',sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+#home img {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+#icon{
+    padding-top: 20px;
+}
+
+#home .container {
+    width: 95%;
+    margin: 0 auto;
+    padding-top: 30px;
+    
+}
+.container1 {
+    background-color: black;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    height: 650px;
+    justify-content: center;
+    padding-top: 100px;
+    
+}
+/*=============== ABOUT ===============*/
+#about
+    {
+    color: white;
+    text-align: center;
+    background-color: #444;
+    }
+
+#about img
+    {
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    }
+
+    #about .container 
+    {
+    width: 95%;
+    margin: 0 auto;
+    padding: 20px;
+    }
+
+/*---------------EDUCATION-----------------------*/
+.education1-section {
+    padding: 0;
+    margin: 20px auto;
+    background-color: #444;
+}
+.education {
+    background-color:black;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    width: 60%;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+.education h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: skyblue;
+}
+
+.education p {
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+.certificates1{
+    h2{
+        color: skyblue;
+    }
+}
+/*--------------------------------------------------------------*/
+.skills1 {
+    margin-bottom: 15px;
+}
+
+.skills-section {
+    background-color: #fff;
+    padding: 50px;
+    margin: 20px auto;
+    max-width: 1200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.skills {
+    background-color: black;
+    padding: 20px;
+    border-radius: 8px;
+    width: 60%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.skills h3{
+    margin-bottom: 10px;
+    color: white;
+}
+
+#skill{
+    color: skyblue;
+}
+
+
+/*=============== CONTACT ===============*/
+#contact{
+    background-color: #444;
+}
+#contact p{
+    color: white;
+    padding-top: 20px;
+    padding-left: 100px;
+}
+#contact b{
+    padding-left: 20px;
+}
+
+ 
+    
+
+
+    
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
