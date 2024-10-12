@@ -165,7 +165,6 @@ a:hover {
     background-color: #fff;
     padding: 50px;
     margin: 20px auto;
-    max-width: 1200px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .skills {
@@ -193,37 +192,8 @@ a:hover {
 #contact p{
     color: white;
     padding-top: 20px;
-    padding-left: 100px;
+    padding-left: 20px;
 }
 #contact b{
     padding-left: 20px;
 }
-
- 
-    
-
-
-    
-  
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
